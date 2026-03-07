@@ -14,7 +14,7 @@ color:#333;
 }
 /* Bagian tampilan utama */
 .hero{
-    background-image: url("gambar.jpg");
+    background-image: url("gambar1.png");
     height: 100vh; /* tinggi layar penuh */
     background-size: cover; /* gambar memenuhi layar */
     background-position: center;
